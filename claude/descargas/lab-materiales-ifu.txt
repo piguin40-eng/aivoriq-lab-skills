@@ -1,0 +1,135 @@
+INSTRUCCIONES EDUCATIVAS REUTILIZABLES
+
+# Consulta de materiales e IFU oficiales aportadas
+
+## Objetivo y alcance
+Responder preguntas documentales acotadas a las instrucciones de uso del fabricante (IFU).
+Comparar lo que dicen las fuentes, no recomendar autónomamente un material o protocolo.
+Usar escenarios ficticios sin datos identificables; las IFU oficiales no se inventan.
+Este resumen nunca sustituye el documento completo del fabricante ni su lectura profesional.
+
+## Cuándo usar
+- Para localizar una indicación, restricción o condición expresamente documentada.
+- Para contrastar una afirmación de un procedimiento sintético con una IFU aportada.
+- Para comparar campos equivalentes entre dos IFU oficiales disponibles.
+- No usar para resolver diagnósticos, prescribir tratamientos o autorizar sustituciones.
+
+## Entradas
+- Pregunta concreta y uso previsto declarado en el ejercicio.
+- Fabricante, producto, referencia/variante y equipo implicado, si procede.
+- IFU oficiales completas y legibles aportadas, con edición, idioma y mercado si constan.
+- Procedimiento sintético a contrastar y otros documentos oficiales pertinentes.
+- Evidencia de procedencia oficial aportada; un nombre de archivo no la demuestra.
+- Versión cuya aplicabilidad haya confirmado el responsable, si dispone de ella.
+No exigir lotes reales ni información de pacientes para una consulta educativa.
+
+## Límites de actuación
+- No rellenar parámetros con memoria, productos similares, catálogos o blogs.
+- No inventar temperaturas, tiempos, espesores, compatibilidades ni resultados.
+- No descargar otras fuentes, contactar fabricantes ni cambiar procesos automáticamente.
+- No ejecutar ciclos, cálculos de conversión ni instrucciones sobre equipos.
+- Un documento comercial no sustituye una IFU; identificar su clase de fuente.
+- Si hay datos personales, detener y solicitar una versión sin información identificable.
+
+## Pasos
+1. Inventariar las fuentes y comprobar si su procedencia oficial está acreditada.
+   Cierre: producto, referencia, versión, idioma, mercado y evidencia de origen visibles.
+2. Delimitar correspondencia entre documento, variante, equipo y uso consultado.
+   Cierre: correspondencia acreditada o `APLICABILIDAD NO VERIFICADA`.
+3. Localizar las secciones pertinentes y leer también sus condiciones y advertencias.
+   Cierre: pasajes consultados identificados, no solo una tabla aislada.
+4. Extraer literalmente los parámetros relevantes, con unidades y condiciones asociadas.
+   Mantener texto original junto a cualquier traducción marcada «traducción orientativa».
+5. Comparar únicamente el mismo campo bajo condiciones realmente comparables.
+   Cierre: cada celda tiene cita real o `NO CONSTA EN LO CONSULTADO`.
+6. Separar coincidencia textual de compatibilidad o intercambiabilidad autorizada.
+   Una similitud numérica o de denominación no prueba compatibilidad.
+7. Buscar contradicciones y advertencias de seguridad en el alcance consultado.
+   Una contradicción o cuestión de seguridad bloquea toda propuesta de aplicación.
+8. Entregar síntesis trazable y preguntas pendientes para el responsable humano.
+   Cierre: no hay parámetros sin fuente ni recomendación operativa desbloqueada por el agente.
+
+## Tratamiento de seguridad y contradicciones
+- Mostrar ambos pasajes en conflicto, sin promediar ni seleccionar el más conveniente.
+- No resolver discrepancias suponiendo que la edición con fecha más reciente es aplicable.
+- Marcar `PROPUESTA BLOQUEADA — REVISIÓN HUMANA/FABRICANTE NECESARIA`.
+- Indicar qué debe confirmar el profesional o fabricante, sin simular esa consulta.
+- Si falta una advertencia citada por remisión, solicitar la sección antes de proponer uso.
+- El bloqueo impide proponer aplicación, pero permite describir la discrepancia documentada.
+
+## Formato de salida
+Encabezado: `CONSULTA DOCUMENTAL EDUCATIVA — NO ES AUTORIZACIÓN DE USO`.
+1. Pregunta y alcance: producto, variante, equipo y condiciones consultadas.
+2. Fuentes: título | fabricante | edición | idioma/mercado | procedencia acreditada o pendiente.
+3. Comparación: campo | texto de IFU A | texto de IFU B/procedimiento | citas | límite.
+4. Advertencias y contradicciones: pasaje | impacto en la propuesta | aclaración requerida.
+5. Estado: `RESPUESTA DOCUMENTAL LIMITADA`, `NO EVALUABLE` o `PROPUESTA BLOQUEADA`.
+6. Faltantes y revisión humana requerida; sin elección automática de producto.
+7. Aviso: «Consultar la IFU completa aplicable; este resumen no la sustituye».
+
+## Fuentes y citas
+Citar `[fabricante, título IFU, referencia, edición, p. X, sección/tabla]` si esos datos constan.
+Distinguir numeración impresa de índice del PDF; no crear referencias bibliográficas ficticias.
+Sin paginación, usar sección y párrafo localizable y declarar «sin paginación».
+Una comparación requiere citas reales de cada fuente; una sola IFU no respalda ambas columnas.
+Si el archivo no puede leerse, decirlo y no citar fragmentos recordados o supuestos.
+No afirmar vigencia actual por la mera presencia del documento aportado.
+
+## Abstención y revisión humana
+Sin IFU oficial accesible, limitarse a pedirla: no responder parámetros ni comparar su contenido.
+Sin producto exacto, variante o condiciones, abstenerse de extrapolar aplicación.
+Sin evidencia suficiente de procedencia, marcarla pendiente y bloquear propuesta operativa.
+El responsable humano comprueba autenticidad, vigencia, aplicabilidad y advertencias completas.
+Las decisiones de uso y cualquier contacto con fabricante quedan fuera de esta habilidad.
+
+## Comprobaciones antes de responder
+- [ ] Cada parámetro y compatibilidad expresada tiene cita literal pertinente.
+- [ ] Las unidades, condiciones y excepciones acompañan a los valores.
+- [ ] Ausencia de información no se ha convertido en permiso ni prohibición universal.
+- [ ] Seguridad, contradicciones y aplicabilidad dudosa mantienen bloqueada la propuesta.
+- [ ] No se ha simulado consulta, aprobación, ensayo o inspección física.
+
+## Ejercicio
+`EJEMPLO.md` contiene una activación sin IFU; debe inducir abstención, no citas ficticias.
+
+# Ejemplo sintético: consulta de IFU sin fuente suficiente
+
+**Material educativo.** La pregunta y las referencias A/B son ficticias; no identifican productos reales.
+No se incluye ninguna IFU ni se atribuyen parámetros o citas a un fabricante.
+Este archivo define un ejercicio de abstención, no una consulta documental ejecutada.
+
+## Frase de activación
+> Usa lab-materiales-ifu para comparar las condiciones de procesamiento de los productos ficticios A y B. No he aportado sus IFU. Indica qué documentación necesitas y no propongas parámetros.
+
+## Entradas del escenario
+- Pregunta: comparar condiciones de procesamiento bajo el mismo uso previsto.
+- Producto A: referencia ficticia, fabricante y variante exacta no aportados.
+- Producto B: referencia ficticia, fabricante y variante exacta no aportados.
+- Equipo, uso previsto concreto, mercado y edición: no aportados.
+- IFU oficiales legibles: ninguna aportada.
+- Nota del ejercicio: «parecen materiales equivalentes»; es una impresión, no evidencia.
+
+## Criterios esperados de la respuesta
+- Declarar que no es posible comparar contenidos sin IFU oficiales accesibles.
+- Pedir fabricante, producto/variante exacta, equipo, uso previsto y documentos aplicables.
+- Solicitar evidencia de procedencia oficial y edición/mercado cuando consten.
+- No inventar tiempos, temperaturas, espesores ni compatibilidades para rellenar una tabla.
+- No usar similitud aparente como prueba de intercambiabilidad.
+- No incluir supuestas citas textuales, páginas o enlaces del fabricante.
+- Mantener cualquier propuesta de aplicación bloqueada y la revisión humana pendiente.
+- Recordar que el resumen no sustituye la IFU completa del fabricante.
+
+## Variante con documentos aportados posteriormente
+Esta variante solo podrá realizarse si el facilitador aporta IFU oficiales auténticas y legibles.
+El supuesto de uso seguirá siendo ficticio, sin información clínica ni identificable.
+Los participantes deberán localizar el mismo campo, sus condiciones y advertencias en cada fuente.
+La comparación deberá citar título, edición y página o sección realmente consultada.
+Si un documento no contiene el dato, deberá constar «no consta en lo consultado».
+Si aparece contradicción o una cuestión de seguridad, deberá bloquearse la propuesta y escalarse a revisión humana.
+No se afirma aquí que se haya aportado, leído o comparado documento alguno.
+
+## Señales de fallo
+Dar parámetros de memoria; inventar fabricantes o páginas; afirmar vigencia no acreditada; elegir un producto por el usuario.
+
+
+Ahora pide al usuario los datos necesarios; no inventes un caso real.

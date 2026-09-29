@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "lab-ordenes",
+    "titulo": "Admisión documental de órdenes",
+    "explicacion": "Ordena una solicitud sintética, contrasta requisitos aportados y señala faltantes y discrepancias sin aceptar el trabajo.",
+    "entrada": "Orden ficticia, anexos, versiones y lista de requisitos documentales aportada.",
+    "salida": "Borrador con inventario, matriz de requisitos, fuentes, preguntas de aclaración y revisión humana pendiente.",
+    "ejemplo_frase_uso": "Usa lab-ordenes para revisar esta orden sintética y señalar qué documentación falta, sin aceptarla ni enviar mensajes."
+  },
+  {
+    "slug": "lab-materiales-ifu",
+    "titulo": "Consulta de materiales e IFU oficiales aportadas",
+    "explicacion": "Localiza y compara lo expresamente documentado en IFU oficiales accesibles, sin sustituirlas ni inventar parámetros; seguridad y contradicciones bloquean la propuesta.",
+    "entrada": "Pregunta de un escenario ficticio, producto y variante exactos, uso previsto e IFU oficiales legibles aportadas con su procedencia.",
+    "salida": "Síntesis o comparación con citas reales por documento y página/sección, límites, faltantes y bloqueo cuando corresponda.",
+    "ejemplo_frase_uso": "Usa lab-materiales-ifu para comparar este campo en las IFU oficiales que aporto; cita las páginas y no propongas uso si hay contradicciones."
+  },
+  {
+    "slug": "lab-planificacion",
+    "titulo": "Planificación propuesta de producción",
+    "explicacion": "Prepara una secuencia propuesta con duraciones, capacidad y calendario aportados; calcula con herramienta o marca NO CALCULADO, sin reservar recursos.",
+    "entrada": "Carga ficticia, etapas, dependencias, duraciones, reglas de prioridad, capacidad disponible y calendario explícitos.",
+    "salida": "Propuesta pendiente de revisión, cálculos trazables o NO CALCULADO, conflictos y datos necesarios; sin promesas de entrega.",
+    "ejemplo_frase_uso": "Usa lab-planificacion para proponer una secuencia con esta capacidad y calendario sintéticos; calcula con herramienta o indica NO CALCULADO."
+  },
+  {
+    "slug": "lab-incidencias",
+    "titulo": "Análisis de incidencias y repeticiones",
+    "explicacion": "Organiza registros sintéticos y distingue hechos documentales, testimonios e hipótesis sin atribuir causas ni decidir rehacer.",
+    "entrada": "Registros ficticios de incidencias, versiones y evidencias; definiciones, período y denominadores si se solicitan métricas.",
+    "salida": "Cronología documentada, hipótesis contrastables, faltantes y propuestas de investigación sometidas a revisión humana.",
+    "ejemplo_frase_uso": "Usa lab-incidencias para separar hechos e hipótesis de estos registros sintéticos, sin atribuir causa ni decidir rehacer."
+  },
+  {
+    "slug": "lab-entrega",
+    "titulo": "Control documental previo a entrega",
+    "explicacion": "Revisa un expediente sintético frente a requisitos aportados: completo documentalmente no implica correcto técnicamente ni clínicamente, ni autoriza envío.",
+    "entrada": "Orden ficticia final, lista aplicable, documentos de trazabilidad, registros de revisión y autorización si consta.",
+    "salida": "Matriz documental, faltantes, discrepancias y estado separado de autorización; sin inspección física, liberación ni envío.",
+    "ejemplo_frase_uso": "Usa lab-entrega para comprobar este expediente sintético contra su lista documental, sin certificar calidad ni autorizar la entrega."
+  }
+]
